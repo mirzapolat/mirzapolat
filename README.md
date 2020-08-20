@@ -1,2 +1,2 @@
-### Hello there 👋 This is the profile of Mirza
-I'm glad you're here to... whatever you came for. Im a student from germany who likes to do ocasionally things with code. I mostly use C# but I always like to try out new things. You can contact me on [Twitter](https://twitter.com/mirzamagix) ([Direct Message](https://twitter.com/messages/compose?recipient_id=785050155464716289)) or Discord (mirza#2192).
+### Hello there 🐢 This is Mirza's Official Profile Page
+I'm glad you're here to... whatever you came for. Im a student from Germany who likes to do occasionally things with code. I mostly use C# as a programming language but I always like to try out new things. You can contact me on [Twitter](https://twitter.com/mirzamagix) ([Direct Message](https://twitter.com/messages/compose?recipient_id=785050155464716289)) or Discord (mirza#2192).
