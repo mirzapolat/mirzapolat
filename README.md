@@ -1,2 +1,2 @@
-### Hello there 🐢 This is Mirza's Profile Page
+### A turtle 🐢 a day keeps boredom away.
 I hope you'll find what you're looking for...
