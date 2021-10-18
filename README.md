@@ -1,2 +1,1 @@
-### A turtle 🐢 a day keeps boredom away.
-I hope you'll find what you're looking for...
+A turtle 🐢 a day keeps boredom away.
