@@ -1,1 +1,1 @@
-A turtle a day keeps boredom away 🐢
+A turtle a day keeps ~~the doctor away~~ turtles close 🐢
